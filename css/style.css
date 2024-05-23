@@ -9371,7 +9371,7 @@ a.text-dark:hover, a.text-dark:focus {
   color: #fff;
 }
 
-.brand-card-header .chart-wrapper {
+.-card-header .chart-wrapper {
   position: absolute;
   top: 0;
   left: 0;
@@ -9379,7 +9379,7 @@ a.text-dark:hover, a.text-dark:focus {
   height: 100%;
 }
 
-.brand-card-body {
+.-card-body {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-direction: row;
